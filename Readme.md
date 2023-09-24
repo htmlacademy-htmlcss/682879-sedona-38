@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Инесса Оганян](https://up.htmlacademy.ru/htmlcss/38/user/682879).
-* Наставник: `Неизвестно`.
+* Наставник: `Ирина Малиновская`. (https://htmlacademy.ru/profile/irina-malinovskaya)
 
 ---
 
